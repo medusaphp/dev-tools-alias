@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "ee4c28bfcae17d4520650ed87b027649",
+    "packages": [
+        {
+            "name": "medusa/dev-tools",
+            "version": "1.0.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/medusaphp/dev-tools.git",
+                "reference": "70f4b2f4efb25d9d2add47542f6981726b6dc3cc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/medusaphp/dev-tools/zipball/70f4b2f4efb25d9d2add47542f6981726b6dc3cc",
+                "reference": "70f4b2f4efb25d9d2add47542f6981726b6dc3cc",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/functions.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Pascal Schnell",
+                    "email": "pascal.schnell@getmedusa.org"
+                }
+            ],
+            "description": "Helper functions for debugging",
+            "support": {
+                "issues": "https://github.com/medusaphp/dev-tools/issues",
+                "source": "https://github.com/medusaphp/dev-tools/tree/1.0.7"
+            },
+            "time": "2021-06-10T06:01:50+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=7.4"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}
