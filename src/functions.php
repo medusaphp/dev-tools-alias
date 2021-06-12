@@ -1,4 +1,5 @@
 <?php declare(strict_types = 1);
+define('__MEDUSA_DEV_ALIAS_FILE__', __FILE__);
 function dd($v, int $exitCode = 0) {
     \Medusa\DevTools\dd(...func_get_args());
 }
