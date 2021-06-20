@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "medusa/dev-tools",
-            "version": "1.0.8",
+            "version": "1.0.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/medusaphp/dev-tools.git",
-                "reference": "a27d8c052be57d854db209706ffa7733b301f498"
+                "reference": "109c2d1b5495fdd660587447b8b327cf1227f69a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/medusaphp/dev-tools/zipball/a27d8c052be57d854db209706ffa7733b301f498",
-                "reference": "a27d8c052be57d854db209706ffa7733b301f498",
+                "url": "https://api.github.com/repos/medusaphp/dev-tools/zipball/109c2d1b5495fdd660587447b8b327cf1227f69a",
+                "reference": "109c2d1b5495fdd660587447b8b327cf1227f69a",
                 "shasum": ""
             },
             "require": {
@@ -42,9 +42,9 @@
             "description": "Helper functions for debugging",
             "support": {
                 "issues": "https://github.com/medusaphp/dev-tools/issues",
-                "source": "https://github.com/medusaphp/dev-tools/tree/1.0.8"
+                "source": "https://github.com/medusaphp/dev-tools/tree/1.0.9"
             },
-            "time": "2021-06-12T23:05:40+00:00"
+            "time": "2021-06-20T11:08:05+00:00"
         }
     ],
     "packages-dev": [],
